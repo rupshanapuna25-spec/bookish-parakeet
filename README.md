@@ -1,4 +1,2 @@
 # bookish-parakeet
-This is bookishendto end project
-
-Like this video
+This is bookish end to end project.
