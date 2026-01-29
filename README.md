@@ -15,9 +15,13 @@ I'm  Rupshana Pun, a First-Year  student passionate about digital logic, web dev
   -  Learning about python and practice.
   -  Colaborating on a student project to build web app.
     ### 🤙 How to Contact Me
+
   -✉️  Email:magarmamta477@gmail.com
+
   -💼Linkedin: Rupshana Pun
-  -🔵 Portfolio:Coming Soon!
+
+   -🔵 Portfolio:Coming Soon!
+
   Thanks for visting! 😊
   
 
