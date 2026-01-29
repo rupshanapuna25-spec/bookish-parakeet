@@ -1,4 +1,3 @@
-<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/072dab91-5101-42e4-a194-542ee8dc8ae6" />
   ## Hey there! 👋
 I'm  Rupshana Pun, a First-Year  student passionate about digital logic, web development and creatve problem solving.
 ##  👩‍💻 About Me
