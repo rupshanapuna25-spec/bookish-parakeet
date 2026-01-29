@@ -2,6 +2,7 @@ My name is Rupshana Pun. I was a management student. Nowadays it is a time of IT
 
 About Me
 
+
 -I'm studying Bsc (Hons) Computing at Informatics College Pokhara.
 - I know basic knowledge about databases.
 -  I studied  computer  in +2.
@@ -15,6 +16,7 @@ What I'm Learning
 - I'm trying to type asfast as possible.
 
    Goals
+
   -To secure internships or industry certification.
   -To develop advance skills  about computer knowledge.
   - To build different types of project immediatly.
