@@ -3,7 +3,7 @@ My name is Rupshana Pun. I was a management student. Nowadays it is a time of IT
 About Me
 
 
--I'm studying Bsc (Hons) Computing at Informatics College Pokhara.
+- I'm studying Bsc (Hons) Computing at Informatics College Pokhara.
 - I know basic knowledge about databases.
 -  I studied  computer  in +2.
 -  I  am a average student.
@@ -17,8 +17,9 @@ What I'm Learning
 
    Goals
 
-  -To secure internships or industry certification.
-  -To develop advance skills  about computer knowledge.
+   -To secure internships or industry certification.
+
+   -To develop advance skills  about computer knowledge.
   - To build different types of project immediatly.
   
 
