@@ -1,6 +1,7 @@
 My name is Rupshana Pun. I was a management student. Nowadays it is a time of IT.So, I came IT field to learn how the computer is used in future.
 
 About Me
+
 -I'm studying Bsc (Hons) Computing at Informatics College Pokhara.
 I know basic knowledge about databases.
 -  I studied  computer  in +2.
