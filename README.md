@@ -17,7 +17,7 @@ About Me
 
    Goals
 
-   - To secure internships or industry certification.
+ - To secure internships or industry certification.
 
 -  To develop advance skills  about computer knowledge.
   -  To build different types of project immediatly.
