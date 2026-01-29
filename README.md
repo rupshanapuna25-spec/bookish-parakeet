@@ -16,7 +16,8 @@ I'm  Rupshana Pun, a First-Year  student passionate about digital logic, web dev
       
      ### 🤙 How to Contact Me
   -✉️  Email:rupshana.pun.a25@icp.edu.np
-   -🔵 Portfolio:Coming Soon!
+
+  -🔵 Portfolio:Coming Soon!
 
   Thanks for visting! 😊
   
