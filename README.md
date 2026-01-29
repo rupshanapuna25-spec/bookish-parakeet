@@ -1,4 +1,4 @@
-My name is Rupshana Pun. I was a management student. Nowadays it is a time of IT.So, I came IT field to learn how the computer is used in future.
+My name is Rupshana Pun. I was a management student. Nowadays it is a time of IT. So, I came IT field to learn how the computer is used in future.
 
 About Me
 
