@@ -14,9 +14,11 @@ I'm  Rupshana Pun, a First-Year  student passionate about digital logic, web dev
   -  Exploring   digital logic circuit and create truth tables.
   -  Learning about python and practice.
   -  Colaborating on a student project to build web app.
-    ### 🤙 Contact Me
+    ### 🤙 How to Contact Me
   -✉️  Email:magarmamta477@gmail.com
-  -💼Linkedin:
+  -💼Linkedin: Rupshana Pun
+  -🔵 Portfolio:Coming Soon!
+  Thanks for visting! 😊
   
 
   
