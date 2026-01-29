@@ -8,7 +8,7 @@ About Me
 -  I studied  computer  in +2.
 -  I  am a average student.
 
-What I'm Learning
+  What I'm Learning
 - I'm learning about coding in different fields.
 - I'm learning about how to make webpages using different programming apps. 
 - I'm not perfect in programming but  I'm trying  learning about programming. 
@@ -17,9 +17,9 @@ What I'm Learning
 
    Goals
 
-   -To secure internships or industry certification.
+   - To secure internships or industry certification.
 
-   -To develop advance skills  about computer knowledge.
+- To develop advance skills  about computer knowledge.
   - To build different types of project immediatly.
   
 
