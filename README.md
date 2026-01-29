@@ -1,26 +1,17 @@
-  ## Hey there! 👋
-I'm  Rupshana Pun, a First-Year  student passionate about digital logic, web development and creatve problem solving.
-##  👩‍💻 About Me
--🎓 I'm currently studying Bsc(Hons) Computing at Informatics College Pokhara.
-- 💡I'm intrested in logic circuit, HTML, CSS, JavaScript and  databases.
-- 🤝 I love sharing knowledge and learning together in team environment.
-  ### 📚 What I'm Learning
-  - I'm learning about Logic circuit and simplification.
-  - Boolean Algebra
-  - Python,JavaScript, HTML, CSS 
+My name is Rupshana Pun. I was a management student. Nowadays it is a time of IT.So, I came IT field to learn how the computer is used in future.
 
-    Goals
-    - To gain  more knowledge about programming.
-    - To improve my typing speed.
-    - To improve communication skills in English.
-      
-     ### 🤙 How to Contact Me
-  -✉️  Email:rupshana.pun.a25@icp.edu.np
-
-  -🔵 Portfolio:Coming Soon!
-
-  Thanks for visting! 😊
+About Me
+-I'm studying Bsc (Hons) Computing at Informatics College Pokhara.
+I know basic knowledge about databases.
+-  I studied  computer  in +2.
+-  I  am a average student.
+what I'm Learning
+- I'm learning about coding in different fields.
+- I'm learning about how to make webpages using different programming apps. 
+- I'm not perfect in programming so I'm trying  learning new things about computer program.
+- I'm learning to make my english speaking  perfect.
+   Goals
+  -To secure internships or industry certification.
+  -To develop advance skills  about computer knowledge.
   
 
-  
-  
